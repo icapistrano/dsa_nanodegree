@@ -1,0 +1,34 @@
+Task0
+
+Retrieving item by index in Python list is constant time. So, runtime for Task 0 is 
+O(1) time complexity.
+
+---------
+
+Task1
+
+Iterating through for loop in function unique_nums is linear. So, runtime for Task 1 
+has worst case O(n) time complexity.
+
+---------
+
+Task2
+
+Iterating through for loop of calls is linear. So, runtime for Task 2 has worst case 
+O(n) time complexity.
+
+---------
+
+Task3
+
+Iterating through each item in for loop fixed_line_callers_called is linear. Checking
+if item is a phone number, fixed line or Telemarketer's number is constant time. 
+Python's built-in function sorted which is an implementation of Timsort has a worst 
+case O(n logn) time complexity.
+
+---------
+
+Task4
+
+Similar to Task3, Python's built-in function sorted has a worst case of O(n logn) time
+complexity.
